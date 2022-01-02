@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "autor": "Emanuel Lázaro",
+      "mensagem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit [...]"
+    },
+    {
+      "id": 2,
+      "autor": "Paulo Silva",
+      "mensagem": "[...] sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "autor": "Vânia Maria",
+      "mensagem": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "autor": "Ana Maria",
+      "mensagem": "Lorem ipsum dolor sit amet, consectetur adipiscing  [...]",
+      "id": 4
+    }
+  ]
+}
